@@ -14,12 +14,12 @@ typedef struct
 
 /* Sample table data */
 student_record student_record_table[MAX_STUDENTS] = {
-    {101, "Almas", "Physics", 100},
-    {102, "Ismail", "Physics", 100},
-    {103, "Rohit", "Physics", 85},
-    {104, "Saami", "Physics", 65},
-    {105, "Sahith", "Physics", 60},
-    {106, "Shiva", "Physics", 75}};
+    {21, "Almas", "Physics", 96},
+    {22, "Ismail", "Physics", 92},
+    {23, "Rohit", "Physics", 81},
+    {24, "Saami", "Physics", 45},
+    {25, "Sahith", "Physics", 69},
+    {26, "Shiva", "Physics", 75}};
 
 /* ---------------- Table Scan ---------------- */
 int curr_row;
